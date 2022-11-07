@@ -41,7 +41,7 @@ h1 {
     width: 100%;
     height: 100vh;
     background-image: url(images/my.png);
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-size: cover;
     background-position: center;
 }
